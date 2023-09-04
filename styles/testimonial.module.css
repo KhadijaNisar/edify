@@ -1,0 +1,87 @@
+
+.testimonialItems {
+  padding: 40px 45px;
+  border-radius: 10px;
+  /* box-shadow: 0px 30px 40px rgba(3, 18, 32, 0.06); */
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 50px;
+}
+.testimonialAvatar {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.testimonialAvatar img {
+  width: 66px;
+  height: 66px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.avatarText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.avatarText h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.avatarText p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #8f908f;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.avatarInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.avatarInfo h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.avatarInfo span {
+  color: #8f908f;
+}
+.avatarRating {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.avatarRating ul li {
+  display: inline-block;
+  margin: 0 0;
+}
+.avatarRating ul {
+  margin: 0px;
+  padding: 0px;
+}
+.testimonialsTop {
+    margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.testimonialsTop span {
+  color: #789746;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+.testimonialsTop h3 {
+  font-size: 44px;
+  font-weight: 800;
+  margin-bottom: 18px;
+}
+.testimonialOuter{
+  margin-right: 15px;
+}

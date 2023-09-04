@@ -1,0 +1,79 @@
+.enroll_Btn{
+    background: #3d6ce7;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    padding: 0 30px;
+    height: 50px;
+    line-height: 50px;
+    border: none;
+}
+.enroll_Btn  i{
+    margin-left: 5px;
+}
+.event_Sponsor_Info h3{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
+.event_Sponsor_Info h4{
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.event_Sponsor_Info span{
+    font-weight: 400;
+    color: #777a7c;
+}
+.event_Details h3{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.event_Details p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #5f6160;
+}
+.event_Allow{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.event_Allow  h3{
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.list_Div{
+    margin-bottom: 10px;
+    font-size: 16px;
+    list-style: none;
+}
+.list_Div i{
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    font-size: 10px;
+    color: #258e46;
+    background: rgba(37, 142, 70, 0.1);
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.event_Tag{
+    border-top: 1px solid #e4e6ef;
+    padding-top: 25px;
+    font-size: 16px;
+    color: #5f6160;
+    font-weight: 600;
+
+}
+.event_Tag span{
+    font-size: 16px;
+    color: #3d6ce7;
+    margin-right: 10px;
+}

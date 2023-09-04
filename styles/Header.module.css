@@ -1,0 +1,19 @@
+.header{
+    font-family: var(--font-mono);
+    font-size: 16px;
+    color: #555C63;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+  align-items: flex-start;
+}
+.headerLeft{
+  align-self: flex-end;
+}
+.header span{
+    padding-left: 5px;
+}
+.headerRight a{
+    color: black;
+    padding-right: 10px;
+}

@@ -1,0 +1,47 @@
+.error_Page_Outer{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.error_Page_Inner{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.error_Cotent{
+    text-align: center;
+}
+.error_Thumb img{
+    max-width: 100%;    
+}
+.error_Con h3{
+    font-size: 70px;
+    line-height: 0.9;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.error_Con p{
+    font-size: 20px;
+    color: #49535b;
+    margin-bottom: 45px;
+    margin-bottom: 15px;
+    line-height: 26px;
+}
+.error_Btn a{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    background-color: #3d6ce7;
+    padding: 0 30px;
+    height: 50px;
+    line-height: 50px;
+    text-decoration: none;
+}
+.error_Btn a:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}

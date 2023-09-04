@@ -1,0 +1,176 @@
+/* .Plans_parent_div_main{
+    border: 1px solid red;
+} */
+
+.plams_div_col_1 {
+  background-color: #007a70;
+  padding: 30px 20px;
+  position: relative;
+  border-radius: 14px;
+
+  max-width: 550px;
+}
+
+.textbox_plans {
+  padding: 20px;
+}
+
+.plams_div_col_2 {
+  padding: 20px;
+}
+
+.plans_col_2_parent_div {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.col_2_textbox {
+  margin-bottom: 20px;
+}
+
+.col_2_textbox h3 {
+  font-size: 28px;
+  font-weight: 800;
+  max-width: 309px;
+}
+
+.col_2_textbox p {
+  font-size: 15px;
+  color: gray;
+}
+
+.plans_grid_div {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+}
+
+.plans_col_2_sub_one {
+  margin-right: 20px;
+}
+
+.plans_col_2_sub_one img {
+  padding: 16px;
+  width: 60px;
+  border-radius: 10px;
+
+  background-color: rgba(97, 81, 251, 0.08);
+}
+
+.plans_col_2_content_div h4 {
+  font-size: 20px;
+  font-weight: 600;
+  max-width: 222px;
+  margin-bottom: 10px;
+}
+
+.plans_col_2_content_div p {
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.plans_div_readmore_link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.plans_div_readmore_link a {
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+  font-weight: 900;
+  transition: 0.3s all ease-in-out;
+}
+
+.plans_div_readmore_link a:hover {
+  color: #febf00;
+}
+
+.textbox_plans span {
+  display: block;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 400;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.textbox_plans h3 {
+  color: white;
+  font-size: 30px;
+  font-weight: 900;
+}
+.textbox_plans p {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+
+.plams_div_col_1 button {
+  border: none;
+  color: black;
+  background-color: white;
+  padding: 8px 24px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+  border-radius: 5px;
+}
+.plams_div_col_1 button:hover {
+  background-color: #031220;
+  color: white;
+}
+
+.price_lower_image {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+}
+
+.price_div_png_image {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+@media (max-width: 700px) {
+  .plans_grid_div {
+    display: grid;
+
+    grid-template-columns: 1fr;
+  }
+
+  .plams_div_col_2 {
+    padding: 10px 0;
+  }
+
+  .plams_div_col_1 {
+    min-height: 90vh;
+    margin-bottom: 20px;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 428px) {
+  .price_lower_image {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    width: 200px;
+  }
+
+  .textbox_plans {
+    padding: 0;
+  }
+}
+
+@media (max-width: 336px) {
+  .price_lower_image {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    width: 180px;
+  }
+}

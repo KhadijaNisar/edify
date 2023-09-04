@@ -1,0 +1,63 @@
+.team_Outer_Div {
+  margin: 50px 0px;
+  font-family: "Roboto", sans-serif;
+}
+.team_Inner_Div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.team_Item {
+  margin-bottom: 40px;
+  text-align: center;
+}
+.team_Thumbs {
+  position: relative;
+  z-index: 1;
+}
+.team_Shape {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  bottom: -47px;
+  width: 100%;
+}
+.team_Shape img {
+  width: 100%;
+}
+.team_Content {
+  margin-top: 15px;
+}
+.team_Content h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 0;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.team_Content span {
+  display: inline-block;
+  font-size: 14px;
+  color: #5f6160;
+}
+.team_Thumbs:hover .team_Social_Transitions{
+    display: block;
+}
+.team_Social_Transitions {
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  visibility: hidden;
+  opacity: 0;
+}
+.team_Social_Transitions a{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #6b7882;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 2px;
+}
