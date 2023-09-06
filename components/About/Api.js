@@ -23,7 +23,7 @@ export const aboutt= [
             <path d="M20.8179 21.4359H20.8296" stroke="#F4930E" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
         question:'Lucidity',
-        answer:'Experience - It is all that matters! Having more than 5+ years of experience in education consultancy, Edify Group of Companies have constructed a history of success and unprecedented growth from a small consulting firm. Our dedication and unwavering commitment made it possible to create the goodwill that we achieved. We have a team of trained personnel that you can rely on. We provide accurate, factual and updated information only. There are many pitfalls to avoid, important decisions to make, and systems to navigate. Our experts will make sure you have the best advice throughout your study abroad journey.'
+        answer:'The quality of being easily understood, completely intelligible, or comprehensible is what defines Edify! Our services are our commitments to you and we deliver what we commit. We do not chase the impossible and make fake promises - we live in reality. We are truthful to our words and maintain accountability and integrity. Edify maintains transparency (openness, communication and accountability) in every aspect of our dealings. We work to ensure students and families receive the fullest picture of admissions with real insight about the whole admissions process, visa application and even pre-departure orientation.'
     },
     {
         id:3,
@@ -33,8 +33,8 @@ export const aboutt= [
             <path d="M13.4165 12.8345C14.383 12.8345 15.1665 12.051 15.1665 11.0845C15.1665 10.118 14.383 9.33447 13.4165 9.33447C12.45 9.33447 11.6665 10.118 11.6665 11.0845C11.6665 12.051 12.45 12.8345 13.4165 12.8345Z" stroke="#20AD96" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
         question:'Devoted',
-        answer:'To begin studying as an international student, there are a range of entry requirements you may have to meet. The academic requirements (including evidence of English language skills) you need to study abroad will varydepending on the level of education you want to pursue.For instance, some courses will require you to have done afoundation course before applying for a degree.'
-    },
+        answer:'We look at the consultancy differently! We are particularly clinical to take care of your problems and remain focused until we can find the right solution. We dedicate ourselves to understand your individual needs and provide special tailored service you may require. We are always in touch and responsive to your queries. At Edify, we strive to give wholehearted personal attention to every single student in friendly manner.'
+       },
     {
         id:4,
         icon: <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -46,8 +46,8 @@ export const aboutt= [
             <path d="M24.6375 8.39985L23.125 7.33735V3.88735L24.6375 2.82485C25.3875 2.31235 26 2.62485 26 3.53735V7.69985C26 8.61235 25.3875 8.92485 24.6375 8.39985Z" stroke="#6151FB" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
         question:'Global Partners',
-        answer:'To begin studying as an international student, there are a range of entry requirements you may have to meet. The academic requirements (including evidence of English language skills) you need to study abroad will varydepending on the level of education you want to pursue.For instance, some courses will require you to have done afoundation course before applying for a degree.'
-    },
+        answer:'Our excellent network with the Universities helps us to deliver superlative services to our students. We provide end to end services in the application process and visa formalities along with specialised staff members to teach you to crack entry-level tests IELTS, PTE, LanguageCert etc which makes us a single point of contact for overseas education. We work closely with students and institutions to ensure that students receive the best and most appropriate guidance. Our aim is to ensure that every student get proper advice, and this, together with our extensive educational knowledge and our excellent relationship with Universities/Colleges, means that we always achieve optimum placement for our students.'
+          },
     {
         id:5,
         icon: <svg width="28" height="27" viewBox="0 0 28 27" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,7 +59,7 @@ export const aboutt= [
             <path d="M20.8179 21.4359H20.8296" stroke="#F4930E" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
         question:'Astute Team',
-        answer:'To begin studying as an international student, there are a range of entry requirements you may have to meet. The academic requirements (including evidence of English language skills) you need to study abroad will varydepending on the level of education you want to pursue.For instance, some courses will require you to have done afoundation course before applying for a degree.'
+        answer:'Practical wisdom, trusted advice! Our success rate with visa applications and university admissions is one of the highest in the industry. So, you can be rest assured that your whole application process is in good hands with our certified and professionally trained team of counsellors and processing team. We provide help with accurate and error-free application for admission and visa application. Once we take an assignment, we carry on our work on time and through due diligence we follow necessary procedures. Our target is to achieve 100% success rate.'
     },
     {
         id:6,
@@ -69,6 +69,6 @@ export const aboutt= [
             <path d="M13.4165 12.8345C14.383 12.8345 15.1665 12.051 15.1665 11.0845C15.1665 10.118 14.383 9.33447 13.4165 9.33447C12.45 9.33447 11.6665 10.118 11.6665 11.0845C11.6665 12.051 12.45 12.8345 13.4165 12.8345Z" stroke="#20AD96" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
         question:'Ever Lasting Accord',
-        answer:'To begin studying as an international student, there are a range of entry requirements you may have to meet. The academic requirements (including evidence of English language skills) you need to study abroad will varydepending on the level of education you want to pursue.For instance, some courses will require you to have done afoundation course before applying for a degree.'
+        answer:'A long-term healthy is our signature! At Edify, we are committed to provide much more than excellent education consultancy – with us, you are not a number only; you are an individual whom we take care of. We hope that you can take great inspiration and motivation from our counselling and drive your ambition to the optimum level. We also guide you from the start to finish during your studies, taking total care of you throughout and then help you with career planning for the future.'
     },
     ];

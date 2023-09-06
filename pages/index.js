@@ -17,6 +17,7 @@ import EventDetails from '@/components/eventDetails'
 import CourseCategory from '@/components/courseCategory'
 import ErrorPage from '@/components/errorPage'
 import Team from '@/components/team'
+import Destinations from '@/components/destinations'
 
 export default function Home() {
   return (
@@ -26,8 +27,9 @@ export default function Home() {
       {/* <CourseCategory></CourseCategory> */}
       {/* <ErrorPage></ErrorPage> */}
       {/* <SignIn></SignIn> */}
-      <Team></Team>
-      {/* <Contact></Contact> */}
+      {/* <Team></Team> */}
+      {/* <Destinations></Destinations> */}
+      <Contact></Contact>
       {/* <OurCourses></OurCourses> */}
       {/* <About></About> */}
       {/* <JoinEvents></JoinEvents> */}

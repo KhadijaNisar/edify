@@ -9,6 +9,7 @@ import '@/styles/signInUp.css'
 import '@/styles/eventDetails.css'
 import '@/styles/team.css'
 import "@fortawesome/fontawesome-svg-core/styles.css";
+import '@/styles/destinations.css';
 
 import { config } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false;

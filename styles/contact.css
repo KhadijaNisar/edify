@@ -12,7 +12,7 @@
   margin-bottom: 40px;
 }
 .contact_Title h2 {
-  font-size: 46px;
+  font-size: 36px;
   font-weight: 700;
   margin-bottom: 3px;
 }
@@ -22,6 +22,11 @@
   color: #49535b;
   margin-bottom: 15px;
   line-height: 26px;
+}
+.contact_Form iframe{
+  border-radius: 15px;
+  height: 380px;
+  width: 100%;
 }
 .contactFormTop {
   display: grid;

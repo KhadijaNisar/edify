@@ -57,13 +57,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                We give special attention to your application, highlighting the areas essential for a well-presented, error free application. We assist with References and the 'all-important' Statement of Purpose. We assess your English and the Universities admission committees many times consider our recommendations. We have exhaustive information, prospectus, brochures, CD's & application forms, etc.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -81,13 +75,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                University selection is the most crucial stage of the application process. It is done, based on your test scores, at least six months before the time you intend to join your prospective universities. Based on our extensive experience in this field and contacts with our past students from various universities around the world, we help you select good universities to apply to, where chances of getting financial assistance are also good.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -105,13 +93,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                We help you in entire Visa process like, filling up applications, preparing financial statements, and also guidance and training for mock interviews and much more. We are regularly advised by the consulates about the latest Visa documentation and rules and have a success rate of over 90%. Visa Guidance is Free for all Edify’s clients for all countries.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -129,13 +111,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                Prior to landing in a new country of your choice appropriate guidance is provided to help you migrate, travel & settle abroad. The same provides an opportunity to meet other students and their parents who are heading abroad and possibly to the same university. We also provide an extremely updated & comprehensive Pre-Departure Brochure to every student prior to their travel.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -153,13 +129,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                Here, at Edify, one of our expertise lies in preparing students for the IELTS test. We, on our hands, provide all that you need; preparation materials and even British Council Certified Trainer. So, without any further delay, get yourself enrolled in IELTS test preparation at Edify. Apart from IELTS, we also prepare students for Duolingo, PTE, TOEFL, IELTS UKVI, IELTS Life Skills and IELTS General Training.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -177,13 +147,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                We take care of booking flights well in advance to allow ideal departure dates, routes and also best discounts. We help you identify the right airlines for excess baggage schemes. Several International Airlines offer special schemes for students & our counsellors can help you with this information.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -201,13 +165,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                We at Edify continue to provide our support and help even when you reach a new country. We’ll assist you with: open bank account overseas, university enrollment, etc.
                 </p>
               </div>
               <div className={styles.serialNo}>
@@ -225,13 +183,7 @@ const Services = () => {
               </div>
               <div className={styles.servicesText}>
                 <p>
-                  Applying for studies abroad is a huge decision and that is why
-                  we do not limit our counselling to just choosing the right
-                  country and right university but extend it to makingthe right
-                  ‘career decision’.Our educational counsellors first try to
-                  understand your educational background and your career
-                  objectives and then suggest programs in the countries and
-                  universities suiting your preferences.
+                Applying for studies abroad is a huge decision and that is why we do not limit our counselling to just choosing the right country and right university but extend it to makingthe right ‘career decision’.Our educational counsellors first try to understand your educational background and your career objectives and then suggest programs in the countries and universities suiting your preferences.
                 </p>
               </div>
               <div className={styles.serialNo}>

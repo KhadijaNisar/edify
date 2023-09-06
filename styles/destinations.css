@@ -1,0 +1,207 @@
+.destination_Outer_Div {
+  padding-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.destinationDiv {
+  /* background-color: #f6f5f8; */
+}
+.destination_Inner_Div {
+  display: grid;
+  grid-template-columns: 0.65fr 0.45fr 0.65fr 0.45fr 0.65fr;
+  margin-bottom: 40px;
+}
+.destination_Header_Div {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 60px; */
+  margin-bottom: 30px;
+  text-align: center;
+}
+.destination_Header_Div h1 {
+  font-size: 46px;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 13px;
+}
+.destination_Header_Div p {
+  font-size: 20px;
+  font-weight: normal;
+  color: #49535b;
+  margin-bottom: 15px;
+  line-height: 26px;
+}
+/* .destination_Inner_Item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.destination_Image_Div img {
+  width: 256px;
+  width: 208px;
+}
+.destination_Inner_Item img {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 20px;
+}
+.destination_Inner_Item h3 {
+  margin-bottom: 8px;
+}
+.visaProcess{
+    font-family: "Roboto", sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.visaHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.visaHeader span{
+    font-size: 20px;
+  font-weight: normal;
+  color: #49535b;
+  margin-bottom: 15px;
+  line-height: 26px;
+}
+.visaHeader h3{
+    font-size: 42px;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 13px;
+}
+.visa_Steps_Outer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 25px;
+}
+.visa_Image_Box{
+    position: relative;
+    height: 154px;
+    width: 154px;
+    border-radius: 50%;
+    margin-bottom: 28px
+}
+.visa_Image_Box::before{
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    margin-top: -9px;
+    width: 175px;
+    height: 18px;
+    margin-left: 45px;
+    background-image: url("../public/image/destinations/arrow_icon.png");
+    content: "";
+}
+.visa_Img_Inner{
+    position: relative;
+    height: 154px;
+    width: 154px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.counter_Steps{
+    position: absolute;
+    top: 50%;
+    right: -30px;
+    height: 60px;
+    width: 60px;
+    margin-top: -30px;
+    background: linear-gradient(to top, #1d2f41, #ff494a);
+    font-size: 16px;
+    color: #ffffff;
+    border: 6px solid #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    z-index: 2;
+}
+.visa_Steps_Inner:hover .step_Box{
+    background-color: white;
+}
+.step_Box h6{
+    font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.step_Box p{
+    font-size: 15px;
+    font-weight: normal;
+    color: #49535b;
+    margin-bottom: 15px;
+    line-height: 26px;
+}
+.step_Box{
+    position: relative;
+    background-color: #ecf0f4;
+    margin-left: 20px;
+    padding: 25px 30px 20px;
+    margin-top: 5px;
+}
+.step_Box::before{
+    position: absolute;
+    top: -20px;
+    left: 18%;
+    transform: translateX(-50%); 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid #ecf0f4;
+    content: "";
+    z-index: 2;
+} */
+.destination_Right_Divi{
+    display: flex;
+    justify-content: flex-end;
+}
+.destination_Right_Divi img{
+    height: 700px;
+}
+.destination_Div_Top{
+    display: grid;
+    grid-template-columns: 0.95fr 1fr;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    gap: 10px;
+}
+.each_Destination_Item{
+    margin-bottom: 10px;
+    background-color: #80808029;
+    border-radius: 16px;
+    padding: 16px;
+}
+.destination_Right_Div img{
+    width: 500px;
+    height: 500px;
+}
+
+.inner_Image_Div h3{
+    font-size: 25px;
+}
+.inner_Image_Div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.inner_Image_Div img{
+    width: 70px;
+    height: 70px;
+}
+
+@media (max-width: 768px) {
+    .destination_Inner_Div{
+        grid-template-columns: 1fr;
+    }
+    .destination_Image_Div{
+        visibility: hidden;
+    }
+    .visa_Steps_Outer{
+        grid-template-columns: 1fr;
+    }
+}

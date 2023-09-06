@@ -30,11 +30,8 @@ const about = () => {
         <div className="aboutOuter">
           <div className="abouterLeft">
             <div data-aos="fade-up" className="aboutImageDiv">
-              {/* <img src="image/about/about-1.png" className="aboutImg1"></img>
-              <img src="image/about/about-2.png" className="aboutImg2"></img> */}
               <img src="image/about/about.png" className="aboutImg1"></img>
               <img src="image/about/about-4.png" className="aboutImg3"></img>
-              {/* <img src="image/about/about-3.png" className="aboutImg4"></img> */}
             </div>
           </div>
           <div className="aboutRight">
