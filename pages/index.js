@@ -28,10 +28,10 @@ export default function Home() {
       {/* <ErrorPage></ErrorPage> */}
       {/* <SignIn></SignIn> */}
       {/* <Team></Team> */}
-      {/* <Destinations></Destinations> */}
+      <Destinations></Destinations>
       {/* <Contact></Contact> */}
       {/* <OurCourses></OurCourses> */}
-      <About></About>
+      {/* <About></About> */}
       {/* <JoinEvents></JoinEvents> */}
       {/* <Testimonial></Testimonial> */}
       {/* <Services></Services> */}

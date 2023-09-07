@@ -3,7 +3,7 @@
   font-family: "Roboto", sans-serif;
 }
 .destinationDiv {
-  /* background-color: #f6f5f8; */
+  background-color: #f6f5f8;
 }
 .destination_Inner_Div {
   display: grid;
@@ -15,8 +15,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* margin-top: 60px; */
-  margin-bottom: 30px;
+  margin-bottom: 36px;
   text-align: center;
 }
 .destination_Header_Div h1 {
@@ -155,43 +154,71 @@
     content: "";
     z-index: 2;
 }
-.destination_Right_Divi{
-    display: flex;
-    justify-content: flex-end;
+
+
+.destination_Tab_Heading{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 50px;
+  border-bottom: 2px #d8e0e7 solid;
 }
-.destination_Right_Divi img{
-    height: 700px;
+.destination_Each_Heading{
+  background: none;
+  border-bottom: 2px #145495 solid ;
+  color: #145495;
+  
+  padding: 28px 44px;
 }
-.destination_Div_Top{
-    display: grid;
-    grid-template-columns: 0.95fr 1fr;
-    margin-top: 30px;
-    margin-bottom: 60px;
-    gap: 10px;
+.destination_Each_Head a{
+  font-size: 25px;
+    color: #909aa1;
+    text-transform: uppercase;
+    border: none !important;
+    margin-bottom: 5px;
 }
-.each_Destination_Item{
-    margin-bottom: 10px;
-    background-color: #80808029;
-    border-radius: 16px;
-    padding: 16px;
+.destination_Each_Heading button{
+  border: none;
+  background-color: transparent;
 }
-.destination_Right_Div img{
-    width: 500px;
-    height: 500px;
+.destination_Each_Head button{
+  border: none;
+  background-color: transparent;
+}
+.destination_Each_Heading i{
+  margin-bottom: 16px;
+  color: #145495;
+}
+.destination_Each_Heading h3{
+  text-transform: capitalize;
+  color: #145495;
+  font-size: 25px;
 }
 
-.inner_Image_Div h3{
-    font-size: 25px;
+
+.destination_Tab_Heading {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
-.inner_Image_Div{
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 10px;
+
+.destination_Each_Heading {
+  flex: 1;
+  margin-bottom: 10px;
 }
-.inner_Image_Div img{
-    width: 70px;
-    height: 70px;
+
+.destination_Description {
+  display: none;
+  width: 100%;
+}
+
+.destination_Description.open {
+  display: block;
 }
 
 @media (max-width: 768px) {
@@ -203,5 +230,11 @@
     }
     .visa_Steps_Outer{
         grid-template-columns: 1fr;
+    }
+    .destination_Header_Div h1{
+      font-size: 25px;
+    }
+    .destination_Header_Div p {
+      font-size: 15px;
     }
 }
