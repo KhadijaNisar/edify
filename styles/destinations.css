@@ -32,7 +32,7 @@
   margin-bottom: 15px;
   line-height: 26px;
 }
-/* .destination_Inner_Item {
+.destination_Inner_Item {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -154,7 +154,7 @@
     border-bottom: 20px solid #ecf0f4;
     content: "";
     z-index: 2;
-} */
+}
 .destination_Right_Divi{
     display: flex;
     justify-content: flex-end;

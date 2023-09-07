@@ -29,9 +29,9 @@ export default function Home() {
       {/* <SignIn></SignIn> */}
       {/* <Team></Team> */}
       {/* <Destinations></Destinations> */}
-      <Contact></Contact>
+      {/* <Contact></Contact> */}
       {/* <OurCourses></OurCourses> */}
-      {/* <About></About> */}
+      <About></About>
       {/* <JoinEvents></JoinEvents> */}
       {/* <Testimonial></Testimonial> */}
       {/* <Services></Services> */}
